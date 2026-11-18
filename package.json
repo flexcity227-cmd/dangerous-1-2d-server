@@ -1,0 +1,9 @@
+{
+  "name": "zombie-street-multi",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Zombie Street, shooter 2D multijoueur",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.18.0" }
+}
